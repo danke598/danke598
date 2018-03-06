@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://danke598.github.io/"/>
   <updated>2018-03-06T17:56:42.847Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://danke598.github.io/</id>
   
   <author>
     <name>蛋壳</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="http://yoursite.com/2018/03/07/hello-world/"/>
-    <id>http://yoursite.com/2018/03/07/hello-world/</id>
+    <link href="https://danke598.github.io/2018/03/07/hello-world/"/>
+    <id>https://danke598.github.io/2018/03/07/hello-world/</id>
     <published>2018-03-06T16:53:40.005Z</published>
     <updated>2018-03-06T17:56:42.847Z</updated>
     
@@ -37,7 +37,7 @@
     </summary>
     
     
-      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://danke598.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
